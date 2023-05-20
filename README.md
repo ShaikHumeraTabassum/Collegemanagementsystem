@@ -1,25 +1,7 @@
-# College Management System In Java
-
-I have designed and developed College management system. The Technology I have used is Java Swing, and database i have used is MySql.
- * Common Features 
-      * Cources Management
-      * Subjects Management
-      * Students Management
-      * Faculties Management
-      * Students Attandance Management
-      * Student Marks Management
- * Advance Features 🔥
-      * Rollnumber Generator
-      * Chatting
-          * Message delivered
-          * Unseen messages
-          * Notification
-          * Group chatting
-      * Photo view of Students and Faculties
-      * Student or Faculty login history
-      * Download Marksheet
-      * Notification
-      * Declare result
+# College Management System 
+The college management system helps Educational Institutions especially colleges in various ways, such as storing data, maintaining student profiles, analyzing administrative and academic data, improving communication, and engaging students.
+It manages the college information, student information, placement information, various different types of event going on in our college. It also keeps track records of all the information regarding students those who are placed in the various organization.
+Overall, when compared to the manual process, an effective University Management System makes managing university operations easier and more reliable. The university management system aids in the creation of a platform for all stakeholders including Admin, faculty, and students to collaborate.
 
 ## Database Connection
 
